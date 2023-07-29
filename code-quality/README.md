@@ -58,8 +58,6 @@ npm run debug
 
 ## Credits
 
-This is an adaptation of a WordPress site hosted at http://587672.youcanlearnit.net/
-
 The conversion:
 
 - Archive original with wget

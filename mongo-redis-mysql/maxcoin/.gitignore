@@ -1,0 +1,20 @@
+# Generic ignores
+.idea
+Thumbs.db
+*.swp
+*.vimrc
+*.orig
+.htpasswd
+.unison.*.unison.tmp
+*.core
+node_modules
+node_modules/
+*/node_modules
+/*/cache/**
+/*/logs/**
+.cache
+/vendor
+/*/vendor/*
+
+/node_modules
+.DS_STORE
